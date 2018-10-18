@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloSafari</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="hello_button_name">Say Hello</string>
+    <string name="hi_button_label">Say Hi</string>
+</resources>
